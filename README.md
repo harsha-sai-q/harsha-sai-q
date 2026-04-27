@@ -1,14 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Harsha%20Sai%20Reddy&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=vibe%20coder%20%C2%B7%20AI%20builder%20%C2%B7%2018%20y%2Fo&descAlignY=58&descColor=8b949e&animation=fadeIn&fontAlignX=50" width="100%"/>
-
+  <img src="./assets/github-header.png" width="100%" alt="Harsha Sai Reddy"/>
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=building+AI+products+that+actually+ship+%E2%9A%A1;Next.js+%C2%B7+Supabase+%C2%B7+Python+%C2%B7+Claude+API;18+y%2Fo+from+Andhra+Pradesh%2C+India+%F0%9F%87%AE%F0%9F%87%B3;open+to+hackathon+teams+%26+collabs)](https://github.com/harsha-sai-q)
-
-</div>
+<br/>
 
 <br/>
 
@@ -49,7 +43,6 @@ harsha = {
 |---------|-------------|-------|--------|
 | 🪄 **[PostCraft Pro](https://github.com/harsha-sai-q/postcraft-pro)** | AI LinkedIn post generator with competitor analysis & scoring | Next.js · Supabase · Sarvam · TypeScript | [![Live](https://img.shields.io/badge/-Live-00C853?style=flat-square)](https://postcraft-pro.vercel.app) |
 | 🖥️ **[Swabox](https://github.com/harsha-sai-q/Swabox)** | AI-integrated terminal with plugin system | Python · Docker · Rich | ![WIP](https://img.shields.io/badge/-WIP-FFA000?style=flat-square) |
-| 🤖 **[Abhimanyu ChatBot](https://github.com/harsha-sai-q/Abhimanyu-ChatBot-Genesys-Hackathon)** | Personalized AI guide — built at Genesys Hackathon | HTML · AI | ![Hackathon](https://img.shields.io/badge/-Hackathon-7B61FF?style=flat-square) |
 | 🎬 **CreatorStack** | Professional network for video editors & motion designers | Next.js · Supabase · Cloudflare Stream | ![Building](https://img.shields.io/badge/-Building-58a6ff?style=flat-square) |
 
 </div>
@@ -110,9 +103,5 @@ harsha = {
 ---
 
 <div align="center">
-
-*building different · shipping fast · always learning*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
+<sub>building different · shipping fast · always learning</sub>
 </div>
