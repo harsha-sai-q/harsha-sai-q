@@ -103,7 +103,7 @@ The architecture studies:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-sai-q&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="55%"/>
+<img src="https://streak-stats.demolab.com/?user=harsha-sai-q&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="55%"/>
 
 </div>
 
